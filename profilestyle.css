@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(252, 0, 218);
+    background-image: url(images/IMG_7459.JPG);
+    color: rgb(0, 255, 34);
+    font-family: 'DynaPuff', cursive;
+    font-size: 16px;
+    font-weight: lighter;
+ 
+}
+h1{
+    color: rgb(43, 255, 0);
+}
+
+.box{
+    background-color: rgb(0, 0, 0);
+    border-left: 5px rgb(0, 255, 34) solid;
+    border-right: 5px rgb(0, 255, 34) solid;
+    border-top: 5px rgb(0, 255, 34) solid;
+    border-bottom: 5px rgb(0, 255, 34) solid;
+    margin-left: 0px;
+    text-indent: 15px;
+}
+.box2{
+    background-color: rgb(0, 0, 0);
+    border-left: 5px rgb(0, 255, 34) solid;
+    border-right: 5px rgb(0, 255, 34) solid;
+    border-top: 5px rgb(0, 255, 34) solid;
+    border-bottom: 5px rgb(0, 255, 34) solid;
+    margin-left: 0px;
+    text-indent: 15px;
+}
+
+.nav{
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+}
+
+a:link{
+    color: rgb(43, 255, 0);
+}
+
+a:visited{
+    color: rgb(43, 255, 0);
+   
+}
+
+a:hover{
+    color: rgb(255, 0, 234);
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+footer{
+    background-color: black;
+    padding: 15px;
+}
+
+.button{
+    padding: 5px;
+    margin-left: 5px;
+}
+
+hr{
+    color: rgb(43, 255, 0);
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
